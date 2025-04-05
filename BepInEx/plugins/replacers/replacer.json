@@ -1,0 +1,88 @@
+{
+    "replacements": [
+        {
+            "matches": "*:enemy hunter aim start global01",
+			"condition": {
+                "type": "config",
+                "config": "Settings:Hunter_Aim",
+                "value": true
+			},
+            "sounds": [
+                {
+                    "sound": "danishhunter-global-01.ogg",
+					"weight": 5
+                }
+            ]
+        },
+        {
+            "matches": "*:enemy hunter aim start global02",
+			"condition": {
+                "type": "config",
+                "config": "Settings:Hunter_Aim",
+                "value": true
+			},
+            "sounds": [
+                {
+                    "sound": "danishhunter-global-02.ogg",
+					"weight": 5
+                }
+            ]
+        },
+        {
+            "matches": "*:enemy hunter aim start global03",
+			"condition": {
+                "type": "config",
+                "config": "Settings:Hunter_Aim",
+                "value": true
+			},
+            "sounds": [
+                {
+                    "sound": "danishhunter-global-03.ogg",
+					"weight": 5
+                }
+            ]
+        },
+        {
+            "matches": "*:enemy hunter aim start01",
+			"condition": {
+                "type": "config",
+                "config": "Settings:Hunter_Aim",
+                "value": true
+			},
+            "sounds": [
+                {
+                    "sound": "danishhunter-01.ogg",
+					"weight": 5
+                }
+            ]
+        },
+        {
+            "matches": "*:enemy hunter aim start02",
+			"condition": {
+                "type": "config",
+                "config": "Settings:Hunter_Aim",
+                "value": true
+			},
+            "sounds": [
+                {
+                    "sound": "danishhunter-02.ogg",
+					"weight": 5
+                }
+            ]
+        },
+        {
+            "matches": "*:enemy hunter aim start03",
+			"condition": {
+                "type": "config",
+                "config": "Settings:Hunter_Aim",
+                "value": true
+			},
+            "sounds": [
+                {
+                    "sound": "danishhunter-03.ogg",
+					"weight": 5
+                }
+            ]
+        }
+    ]
+}
