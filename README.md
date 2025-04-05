@@ -1,10 +1,9 @@
 # Description
 The hunter now swears in Danish!
 
-# Credit
-Voiced by @StriHiryu on ytb
+# Credits
+Voiced by [@StriHiryu](https://www.youtube.com/c/StriHiryu) on youtube
 
-Packaged by ThisWasSparta
+Packaged by [ThisWasSparta](https://github.com/ThisWasSparta) on github
 
-Thanks to EvilCheetah's KurwaHunter mod for providing a reference
-https://thunderstore.io/c/repo/p/EvilCheetah/KurwaHunter/
+Thanks to EvilCheetah's [KurwaHunter](https://thunderstore.io/c/repo/p/EvilCheetah/KurwaHunter/) mod for providing a reference.
